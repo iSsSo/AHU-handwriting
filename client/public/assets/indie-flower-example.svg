@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="800" height="250" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="white"/>
+  <text x="50" y="80" font-family="Indie Flower, cursive" font-size="30" fill="#333333">Eğlenceli Stil</text>
+  <text x="50" y="130" font-family="Indie Flower, cursive" font-size="24" fill="#333333">Daha oyunbaz ve serbest bir el yazısı.</text>
+  <text x="50" y="180" font-family="Indie Flower, cursive" font-size="24" fill="#333333">Düzensiz hiza ve karakteristik</text>
+  <text x="50" y="230" font-family="Indie Flower, cursive" font-size="24" fill="#333333">harflere dikkat edin.</text>
+
+  <path d="M50 90 H750" stroke="#ddd" stroke-width="1" stroke-dasharray="5,5" />
+  <path d="M50 140 H750" stroke="#ddd" stroke-width="1" stroke-dasharray="5,5" />
+  <path d="M50 190 H750" stroke="#ddd" stroke-width="1" stroke-dasharray="5,5" />
+</svg>
